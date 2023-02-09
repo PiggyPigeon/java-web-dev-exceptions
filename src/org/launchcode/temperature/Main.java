@@ -1,4 +1,4 @@
-package org.launchcode.Temperature;
+package org.launchcode.temperature;
 
 import java.util.Scanner;
 
